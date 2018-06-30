@@ -1,0 +1,37 @@
+NET "CLK" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "data" LOC = AC24;
+NET "done" LOC = AC23;
+NET "input_start" LOC = AE22;
+NET "input_data[1]" LOC = AD22;
+NET "input_data[2]" LOC = AD21;
+NET "input_data[3]" LOC = AD20;
+NET "output_start" LOC = AC22;
+NET "CLK" LOC = AF24;
+
+
+NET "input_data[0]" LOC = AD24;
+NET "nRST" LOC = AE23;
+
+NET "input_data[3]" IOSTANDARD = LVCMOS18;
+NET "input_data[2]" IOSTANDARD = LVCMOS18;
+NET "input_data[1]" IOSTANDARD = LVCMOS18;
+NET "input_data[0]" IOSTANDARD = LVCMOS18;
+NET "CLK" IOSTANDARD = LVCMOS18;
+NET "data" IOSTANDARD = LVCMOS18;
+NET "done" IOSTANDARD = LVCMOS18;
+NET "input_start" IOSTANDARD = LVCMOS18;
+NET "nRST" IOSTANDARD = LVCMOS18;
+NET "output_start" IOSTANDARD = LVCMOS18;
+#Created by Constraints Editor (xc7vx330t-ffg1157-3) - 2018/06/29
+NET "CLK" TNM_NET = "CLK";
+TIMESPEC TS_CLK = PERIOD "CLK" 20 ns HIGH 50 %;
+#Created by Constraints Editor (xc7vx330t-ffg1157-3) - 2018/06/29
+NET "input_data<0>" OFFSET = IN 20 ns VALID 20 ns BEFORE "CLK" RISING;
+NET "input_data<1>" OFFSET = IN 20 ns VALID 20 ns BEFORE "CLK" RISING;
+NET "input_data<2>" OFFSET = IN 20 ns VALID 20 ns BEFORE "CLK" RISING;
+NET "input_data<3>" OFFSET = IN 20 ns VALID 20 ns BEFORE "CLK" RISING;
+NET "input_start" OFFSET = IN 20 ns VALID 20 ns BEFORE "CLK" RISING;
+NET "nRST" OFFSET = IN 20 ns VALID 20 ns BEFORE "CLK" RISING;
+NET "data" OFFSET = OUT 20 ns AFTER "CLK";
+NET "done" OFFSET = OUT 20 ns AFTER "CLK";
+NET "output_start" OFFSET = OUT 20 ns AFTER "CLK";

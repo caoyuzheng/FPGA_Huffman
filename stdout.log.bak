@@ -1,0 +1,31 @@
+
+Starting:    D:\Synopsys\fpga_J-2015.03\bin64\mbin\synbatch.exe
+Install:     D:\Synopsys\fpga_J-2015.03
+Hostname:    ELMAGNIFICO
+Date:        Sun Jun 24 20:10:02 2018
+Version:     J-2015.03
+
+Arguments:   -product synplify_pro main.prj -tcl main_map.tcl -batch
+ProductType: synplify_pro
+
+License checkout unsuccessful: synplifypro
+Checkout failed - synplifypro Cannot find license file.
+ The license files (or license server system network addresses) attempted are 
+listed below.  Use LM_LICENSE_FILE to use a different license file,
+ or contact your software provider for a license file.
+Feature:       synplifypro
+License path:  D:\modeltech_10.1a\LICENSE.TXT;
+FLEXnet Licensing error:-1,234.  System Error: 2 ""
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+
+
+
+
+Node-locked Host ID:  0A0027000005
+Please contact support at https://solvnet.synopsys.com/ManageCase?ccf=1
+
+
+Running in Vendor Mode
+
+

@@ -1,0 +1,1313 @@
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design main.ngc ...
+WARNING:NetListWriters:298 - No output is written to main.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus out_data1/character<1020 : 1> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/fa_16<4 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/fa_16_mux0000<4 : 0> on block main
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/fa_17<4 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/fa_17_mux0000<4 : 0> on block main
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new10<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new10_mux0000<12 : 0>
+   on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new1<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new1_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new2<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new2_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new3<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new3_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new4<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new4_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new5<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new5_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new6<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new6_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new7<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new7_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new8<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new8_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new9<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/new9_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new1<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new1_mux0000<12 :
+   0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new2<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new2_mux0000<12 :
+   0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new3<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new3_mux0000<12 :
+   0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new4<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new4_mux0000<12 :
+   0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new5<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new5_mux0000<12 :
+   0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new6<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new6_mux0000<12 :
+   0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new7<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new7_mux0000<12 :
+   0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new8<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new8_mux0000<12 :
+   0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new9<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/new9_mux0000<12 :
+   0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/new1<12 : 0>
+   on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/new1_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/new2<12 : 0>
+   on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/new2_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/new3<12 : 0>
+   on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/new3_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/new4<12 : 0>
+   on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/new4_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/new5<12 : 0>
+   on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/new5_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/new6<12 : 0>
+   on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/new6_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/new7<12 : 0>
+   on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/new7_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/new8<12 : 0>
+   on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/new8_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/s7_1/new1<12
+   : 0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/new1_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/s7_1/new2<12
+   : 0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/new2_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/s7_1/new3<12
+   : 0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/new3_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/s7_1/new4<12
+   : 0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/new4_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/s7_1/new5<12
+   : 0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/new5_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/s7_1/new6<12
+   : 0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/new6_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_1/sort/s9_1/s8_1/s7_1/new7<12
+   : 0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/new7_mux0000<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new1<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new1_mux0000<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new2<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new2_mux0000<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new3<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new3_mux0000<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new4<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new4_mux0000<2 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new5<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new5_mux0000<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new6<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/new6_mux0000<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/new1<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/new1_mux0000<12 : 0> on block main
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/new2<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/new2_mux0000<12 : 0> on block main
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/new3<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/new3_mux0000<12 : 0> on block main
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/new4<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/new4_mux0000<12 : 0> on block main
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/new5<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/new5_mux0000<12 : 0> on block main
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/new1<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/new1_mux0000<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/new2<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/new2_mux0000<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/new3<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/new3_mux0000<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/new4<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/new4_mux0000<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/new1<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/new1_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/new2<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/new2_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/new3<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/new3_mux0000<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_2/sort/s9_1/s8_1/s7_1/s6_1/new4_mux0000<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_2/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_2/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_2/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/temp<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_2/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/temp<12 : 0> on block main is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_2/sort/s9_1/s8_1/s7_1/s6_1/s5_1/temp<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_2/sort/s9_1/s8_1/s7_1/s6_1/temp<12 : 0> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_2/sort/s9_1/s8_1/s7_1/temp<12
+   : 0> on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_2/sort/s9_1/s8_1/temp<12 : 0>
+   on block main is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_2/sort/s9_1/temp<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus tree/sort_2/sort/temp<12 : 0> on block
+   main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_3/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 2> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_3/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 2> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_4/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_4/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_5/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 1> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_5/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 1> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_6/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_6/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 0> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 1> on
+   block main is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   tree/sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 1> on
+   block main is not reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file main.edif ...
+ngc2edif: Total memory usage is 200048 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design main.ngc ...
+WARNING:NetListWriters:298 - No output is written to main.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus character<1016 : 1> on block out_data is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus n18582<9 : 4> on block out_data is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus n18586<9 : 4> on block out_data is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_count[10]_GND_24_o_add_135_OUT_cy<8
+   : 1> on block out_data is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18581_cy<9 : 7> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18582_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18583_cy<9 : 1> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18584_cy<9 : 7> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18587_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18585_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18586_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_1/sort/new10<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_1/sort/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new10<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new7<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus fa_5<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_6<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_7<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_8<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_11<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_12<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_13<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_14<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_15<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_16<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_17<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus State[3]_fa_13[4]_wide_mux_493_OUT<4 :
+   2> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus State[3]_fa_15[4]_wide_mux_495_OUT<4 :
+   1> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp[12]_temp9[12]_mux_70_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp9[12]_temp8[12]_mux_69_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp7[12]_temp6[12]_mux_67_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new8<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new7<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new6<2 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new4<2 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp[12]_temp8[12]_mux_58_OUT<12 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp8[12]_temp7[12]_mux_57_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp7[12]_temp6[12]_mux_56_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp6[12]_temp5[12]_mux_55_OUT<2 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp4[12]_temp3[12]_mux_53_OUT<2 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/new5<12 : 0>
+   on block generate_tree is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_3/sort/s9_1/s8_1/s7_1/temp5[12]_temp4[12]_mux_35_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/temp<12 : 0>
+   on block generate_tree is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/s6_1/new4<11
+   : 0> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node2[12]_node1[12]_mux_2
+   _OUT<12 : 0> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node1[12]_node2[12]_mux_1
+   _OUT<12 : 3> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node1[12]_node2[12]_mux_1
+   _OUT<12 : 3> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_11<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_12<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_16<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_17<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file main.edif ...
+ngc2edif: Total memory usage is 184068 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design main.ngc ...
+WARNING:NetListWriters:298 - No output is written to main.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus character<1016 : 1> on block out_data is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus n18582<9 : 4> on block out_data is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus n18586<9 : 4> on block out_data is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_count[10]_GND_24_o_add_135_OUT_cy<8
+   : 1> on block out_data is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18581_cy<9 : 7> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18582_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18583_cy<9 : 1> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18584_cy<9 : 7> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18587_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18585_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18586_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_1/sort/new10<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_1/sort/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new10<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new7<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus fa_5<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_6<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_7<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_8<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_11<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_12<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_13<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_14<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_15<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_16<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_17<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus State[3]_fa_13[4]_wide_mux_493_OUT<4 :
+   2> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus State[3]_fa_15[4]_wide_mux_495_OUT<4 :
+   1> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp[12]_temp9[12]_mux_70_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp9[12]_temp8[12]_mux_69_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp7[12]_temp6[12]_mux_67_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new8<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new7<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new6<2 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new4<2 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp[12]_temp8[12]_mux_58_OUT<12 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp8[12]_temp7[12]_mux_57_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp7[12]_temp6[12]_mux_56_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp6[12]_temp5[12]_mux_55_OUT<2 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp4[12]_temp3[12]_mux_53_OUT<2 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/new5<12 : 0>
+   on block generate_tree is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_3/sort/s9_1/s8_1/s7_1/temp5[12]_temp4[12]_mux_35_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/temp<12 : 0>
+   on block generate_tree is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/s6_1/new4<11
+   : 0> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node2[12]_node1[12]_mux_2
+   _OUT<12 : 0> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node1[12]_node2[12]_mux_1
+   _OUT<12 : 3> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node1[12]_node2[12]_mux_1
+   _OUT<12 : 3> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_11<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_12<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_16<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_17<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file main.edif ...
+ngc2edif: Total memory usage is 184076 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design main.ngc ...
+WARNING:NetListWriters:298 - No output is written to main.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus character<1016 : 1> on block out_data is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus n18582<9 : 4> on block out_data is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus n18586<9 : 4> on block out_data is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_count[10]_GND_24_o_add_135_OUT_cy<8
+   : 1> on block out_data is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18581_cy<9 : 7> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18582_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18583_cy<9 : 1> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18584_cy<9 : 7> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18587_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18585_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18586_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_1/sort/new10<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_1/sort/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new10<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new7<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus fa_5<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_6<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_7<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_8<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_11<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_12<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_13<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_14<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_15<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_16<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_17<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus State[3]_fa_13[4]_wide_mux_493_OUT<4 :
+   2> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus State[3]_fa_15[4]_wide_mux_495_OUT<4 :
+   1> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp[12]_temp9[12]_mux_70_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp9[12]_temp8[12]_mux_69_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp7[12]_temp6[12]_mux_67_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new8<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new7<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new6<2 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new4<2 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp[12]_temp8[12]_mux_58_OUT<12 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp8[12]_temp7[12]_mux_57_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp7[12]_temp6[12]_mux_56_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp6[12]_temp5[12]_mux_55_OUT<2 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp4[12]_temp3[12]_mux_53_OUT<2 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/new5<12 : 0>
+   on block generate_tree is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_3/sort/s9_1/s8_1/s7_1/temp5[12]_temp4[12]_mux_35_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/temp<12 : 0>
+   on block generate_tree is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/s6_1/new4<11
+   : 0> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node2[12]_node1[12]_mux_2
+   _OUT<12 : 0> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node1[12]_node2[12]_mux_1
+   _OUT<12 : 3> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node1[12]_node2[12]_mux_1
+   _OUT<12 : 3> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_11<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_12<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_16<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_17<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file main.edif ...
+ngc2edif: Total memory usage is 184072 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design main.ngc ...
+WARNING:NetListWriters:298 - No output is written to main.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus character<1016 : 1> on block out_data is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus n18582<9 : 4> on block out_data is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus n18586<9 : 4> on block out_data is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_count[10]_GND_24_o_add_135_OUT_cy<8
+   : 1> on block out_data is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18581_cy<9 : 7> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18582_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18583_cy<9 : 1> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18584_cy<9 : 7> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18587_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18585_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18586_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_1/sort/new10<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_1/sort/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new10<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new7<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus fa_5<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_6<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_7<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_8<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_11<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_12<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_13<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_14<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_15<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_16<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_17<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus State[3]_fa_13[4]_wide_mux_493_OUT<4 :
+   2> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus State[3]_fa_15[4]_wide_mux_495_OUT<4 :
+   1> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp[12]_temp9[12]_mux_70_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp9[12]_temp8[12]_mux_69_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp7[12]_temp6[12]_mux_67_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new8<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new7<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new6<2 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new4<2 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp[12]_temp8[12]_mux_58_OUT<12 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp8[12]_temp7[12]_mux_57_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp7[12]_temp6[12]_mux_56_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp6[12]_temp5[12]_mux_55_OUT<2 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp4[12]_temp3[12]_mux_53_OUT<2 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/new5<12 : 0>
+   on block generate_tree is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_3/sort/s9_1/s8_1/s7_1/temp5[12]_temp4[12]_mux_35_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/temp<12 : 0>
+   on block generate_tree is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/s6_1/new4<11
+   : 0> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node2[12]_node1[12]_mux_2
+   _OUT<12 : 0> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node1[12]_node2[12]_mux_1
+   _OUT<12 : 3> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node1[12]_node2[12]_mux_1
+   _OUT<12 : 3> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_11<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_12<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_16<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_17<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file main.edif ...
+ngc2edif: Total memory usage is 184112 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design main.ngc ...
+WARNING:NetListWriters:298 - No output is written to main.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus character<1016 : 1> on block out_data is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus n18582<9 : 4> on block out_data is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus n18586<9 : 4> on block out_data is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_count[10]_GND_24_o_add_135_OUT_cy<8
+   : 1> on block out_data is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18581_cy<9 : 7> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18582_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18583_cy<9 : 1> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18584_cy<9 : 7> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18587_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18585_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_n18586_cy<9 : 6> on block out_data
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_1/sort/new10<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_1/sort/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new10<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/new7<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus fa_5<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_6<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_7<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_8<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_11<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_12<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_13<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_14<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_15<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_16<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus fa_17<4 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus State[3]_fa_13[4]_wide_mux_493_OUT<4 :
+   2> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus State[3]_fa_15[4]_wide_mux_495_OUT<4 :
+   1> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp[12]_temp9[12]_mux_70_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp9[12]_temp8[12]_mux_69_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/temp7[12]_temp6[12]_mux_67_OUT<12 : 0> on block generate_tree is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new9<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new8<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new7<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new6<2 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/new4<2 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp[12]_temp8[12]_mux_58_OUT<12 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp8[12]_temp7[12]_mux_57_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp7[12]_temp6[12]_mux_56_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp6[12]_temp5[12]_mux_55_OUT<2 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_2/sort/s9_1/temp4[12]_temp3[12]_mux_53_OUT<2 : 0> on block generate_tree
+   is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_2/sort/s9_1/temp<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/new5<12 : 0>
+   on block generate_tree is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_3/sort/s9_1/s8_1/s7_1/temp5[12]_temp4[12]_mux_35_OUT<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/temp<12 : 0>
+   on block generate_tree is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus sort_3/sort/s9_1/s8_1/s7_1/s6_1/new4<11
+   : 0> on block generate_tree is not reconstructed, because there are some
+   missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 3> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new2<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/new1<12 : 0> on block
+   generate_tree is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_1/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node2[12]_node1[12]_mux_2
+   _OUT<12 : 0> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_8/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node1[12]_node2[12]_mux_1
+   _OUT<12 : 3> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus
+   sort_9/sort/s9_1/s8_1/s7_1/s6_1/s5_1/s4_1/s3_1/s2_1/node1[12]_node2[12]_mux_1
+   _OUT<12 : 3> on block generate_tree is not reconstructed, because there are
+   some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_11<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_12<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_16<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus node_17<27 : 13> on block main is not
+   reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file main.edif ...
+ngc2edif: Total memory usage is 184080 kilobytes
+

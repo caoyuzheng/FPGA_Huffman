@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\magnifico\Desktop\FPGA\Huffman\Huffman\main.ncd
+OUTFILE=C:\Users\magnifico\Desktop\FPGA\Huffman\Huffman\main.bit
+FAMILY=Virtex4
+PART=xc4vsx25-10ff668
+WORKINGDIR=C:\Users\magnifico\Desktop\FPGA\Huffman\Huffman
+LICENSE=ISE
+USER_INFO=135256_15690819_173552794_661
